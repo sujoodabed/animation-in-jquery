@@ -1,0 +1,13 @@
+.wrapper{
+    background-color: burlywood;
+    width: 3px;
+    height: 3px;
+}
+.wrapper h1{
+    display: none;
+   
+
+}
+.wrapper .row{
+    display: none;
+}
